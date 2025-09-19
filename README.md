@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/103_%2F_100-004d40?label=Final%20Grade&labelColor=151515&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMjRweCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTAgMGgyNHYyNEgweiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik0xMiAxNy4yN0wxOC4xOCAyMWwtMS42NC03LjAzTDIyIDkuMjRsLTcuMTktLjYxTDEyIDIgOS4xOSA4LjYzIDIgOS4yNGw1LjQ2IDQuNzNMNS44MiAyMXoiLz48L3N2Zz4=" />
-  <img src="https://img.shields.io/badge/C-fe428e?logo=C&label=Language&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Passing-brightgreen?logo=42&label=Norminette&labelColor=151515" />
-  <img src="https://img.shields.io/badge/Custom%20libft-004d40?logo=GitHub&label=Library&labelColor=151515" />
+  <img src="https://img.shields.io/badge/103_%2F_100-004d40?label=Final%20Grade&labelColor=151515&logo=data:image/svg%2bxml;base64,..." />&nbsp;
+  <img src="https://img.shields.io/badge/C-fe428e?logo=C&label=Language&labelColor=151515" />&nbsp;
+  <img src="https://img.shields.io/badge/Passing-brightgreen?logo=42&label=Norminette&labelColor=151515" />&nbsp;
+  <img src="https://img.shields.io/badge/Custom%20Libft-004d40?logo=GitHub&label=Library&labelColor=151515" />
 </p>
+
 
 # 🐚 minishell – Custom UNIX Shell
 
