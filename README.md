@@ -21,7 +21,7 @@ This project strengthened our knowledge in **system programming, process managem
 - 🔹 **Process forking**: Create child processes to execute commands.
 - 🔹 **Error handling**: Robust mechanisms to handle errors gracefully.
 
-See subject [here](https://github.com/lbisson/mnishell/tree/main/subject/en.subject.pdf)
+See subject [here](https://github.com/uninstall-lea/minishell/blob/master/subject/en.subject.pdf)
 	
 ## 🛠️ Installation & Setup
 	
