@@ -10,17 +10,17 @@
 
 ## 📖 Overview
 	
-**Minishell** is a group project developed at **42 Pari**s that consists of building a simplified UNIX shell in C, inspired by Bash.
+**Minishell** is a group project developed at **42 Paris** that consists of building a simplified UNIX shell in C, inspired by Bash.
 The goal is to implement the core mechanisms of a command-line interpreter through rigorous parsing, while gaining a deeper understanding of processes, signals, redirections, and pipes.
 
 This project strengthened our knowledge in **system programming, process management, and UNIX internals.**
 	
 ### Features:
-- 🔹 **Command execution**: Run shell commands with ease.
-- 🔹 **Pipe management**: Link commands together for streamlined output processing.
-- 🔹 **Signal handling**: Manage signals effectively within the shell environment.
-- 🔹 **Process forking**: Create child processes to execute commands.
-- 🔹 **Error handling**: Robust mechanisms to handle errors gracefully.
+- **Command execution**: Run shell commands with ease.
+- **Pipe management**: Link commands together for streamlined output processing.
+- **Signal handling**: Manage signals effectively within the shell environment.
+- **Process forking**: Create child processes to execute commands.
+- **Error handling**: Robust mechanisms to handle errors gracefully.
 
 See subject [here](https://github.com/uninstall-lea/minishell/blob/master/subject/en.subject.pdf)
 	
